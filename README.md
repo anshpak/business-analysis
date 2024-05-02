@@ -1,5 +1,5 @@
 # business-analysis-tasks
-This repo is created for my unisversity business analisys tasks.
+This repo is created for my university business analisys tasks.
 Links to the labs in Google Docs:
 
 [First lab](https://docs.google.com/document/d/1b78I2VyKLbGsWJp2StKpXXBRzCcWfJlt4F1EXu1lb9U/edit?usp=sharing)
